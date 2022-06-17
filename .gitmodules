@@ -12,3 +12,8 @@
 	path = ABC-Strategie-GitHub/abc_x_lemon
 	url = git@github.com:ABC-Strategie-GitHub/abc_x_lemon.git
 	branch = main
+
+[submodule "OCA/manufacture"]
+	path = OCA/manufacture
+	url = git@github.com:OCA/manufacture.git
+	branch = 14.0
